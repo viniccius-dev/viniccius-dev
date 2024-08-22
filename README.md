@@ -7,8 +7,6 @@ __Sobre mim__
 
 🎓 Sou formado em Desenvolvimento Web pela | [UNOPAR](https://www.unopar.com.br/) | [@unoparoficial](https://www.instagram.com/unoparoficial/?hl=en)
 
-🚀 Estou finalizando o [Explorer](https://app.rocketseat.com.br/journey/explorer) | [Rocketseat](https://www.rocketseat.com.br/) | [@rocketseat](https://www.instagram.com/rocketseat/?hl=en)
-
 👩‍💻 Estudando [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) | [Cubos Academy](https://cubos.academy/) | [@cubos.academy](https://www.instagram.com/cubos.academy/)
 
 🔎 Sou curioso sobre tecnologia, viajar e quando possível saber a respeito de novas culturas.
