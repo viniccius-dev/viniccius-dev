@@ -1,15 +1,12 @@
 
 # Opa, Vinícius aqui ☕
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniccius/) [![Perfil](https://img.shields.io/static/v1?label=&message=Rocketseat&color=7159c1&style=for-the-badge&logo=htmx)](https://app.rocketseat.com.br/me/vinicciusdev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicciusdev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniccius/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicciusdev@gmail.com)
 
 __Sobre mim__
 
 🎓 Sou formado em Desenvolvimento Web pela | [UNOPAR](https://www.unopar.com.br/) | [@unoparoficial](https://www.instagram.com/unoparoficial/?hl=en)
 
-👩‍💻 Estudando [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) | [Cubos Academy](https://cubos.academy/) | [@cubos.academy](https://www.instagram.com/cubos.academy/)
-
-🔎 Sou curioso sobre tecnologia, viajar e quando possível saber a respeito de novas culturas.
 ## Tecnologias e Ferramentas
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniccius-dev&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com/?user=viniccius-dev&theme=midnight-purple)](https://git.io/streak-stats) |
