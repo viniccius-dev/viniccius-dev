@@ -1,9 +1,12 @@
 
 # Opa, Vinícius aqui ☕
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniccius/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicciusdev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicciusdev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicciusdev@gmail.com)
 
 __Sobre mim__
+
+Desenvolvedor Full Stack com mais de 3 anos de experiência no desenvolvimento de aplicações web completas para empresas, prefeituras e câmaras municipais. Atuo no front-end com React, Angular, Tailwind e Styled-Components, e no back-end com Node.js, Express, Knex e SQL. Tenho experiência com implantação em VPS, Nginx, Certbot e PM2, além de versionamento com Git/GitHub.
+Atualmente, aprofundo meus estudos em Next.js, buscando entregar soluções modernas, performáticas e escaláveis. 
 
 🎓 Sou formado em Desenvolvimento Web pela | [UNOPAR](https://www.unopar.com.br/) | [@unoparoficial](https://www.instagram.com/unoparoficial/?hl=en)
 
